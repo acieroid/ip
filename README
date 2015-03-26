@@ -1,0 +1,8 @@
+$ go build
+$ ./ip -h
+Usage of ./ip:
+  -host="localhost": Listening HTTP host
+  -port="8085": Listening HTTP port
+
+
+Example running at http://ip.awesom.eu
